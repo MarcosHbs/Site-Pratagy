@@ -4,8 +4,8 @@
 }
 #carouselteste{
 background: blue;
-position: absolute;
-width: 100%;
+/* position: absolute;
+width: 100%; */
   
 }
 
@@ -13,7 +13,45 @@ width: 100%;
   color:white;
   position:absolute;
   top:50%;
+  font-family: 'Anton', sans-serif;
+
+}
+
+#sobrenos{
+  background-color: rgb(5, 113, 255);
+
+}
+
+#sobrenos2{
+  background-color: rgb(5, 113, 255);
+  padding-bottom: 40px;
+  padding-top: 40px;
+  width:40%;
+  margin-left: 5%;
+
+}
+
+
+#txtnos{
+  position:relative;
+
+  font-size: 1em;
+  font-family: 'Anton', sans-serif;
+  color: aliceblue;  
+}
+
+ #divvideo{
+  width: 500px;
+  margin: 0%;
+  padding: 0%;
+  position: relative;
+  left: 100%;
   
   
-  
+ }
+
+#pnos{
+  color: aliceblue;  
+  padding: auto;
+
 }
