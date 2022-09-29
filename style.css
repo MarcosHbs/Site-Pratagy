@@ -9,11 +9,12 @@ width: 100%; */
   
 }
 
-#txt{
+#titulo{
   color:white;
   position:absolute;
   top:50%;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Staatliches', cursive;
 
 }
 
@@ -25,34 +26,58 @@ width: 100%; */
 #sobrenos2{
   
   background-color: rgb(5, 113, 255);
-  padding-bottom: 40px;
-  padding-top: 40px;
-  width:40%;
-  margin-left: 5%;
+  padding-bottom: 60px;
+  padding-top: 60px;
+  width:80%;
+  height: 90%;
+  /* margin-left: 5%; */
 
 }
 
 
 #txtnos{
-  position:relative;
+  
 
   font-size: 1em;
   font-family: 'Anton', sans-serif;
   color: aliceblue;  
+ 
 }
 
  #divvideo{
-  width: 500px;
+  
   margin: 0%;
   padding: 0%;
-  position: relative;
-  left: 100%;
+  width: 30%;
+  height: 100%;
   
-  
+    
  }
 
+ #video{
+  width: 100%;
+  height: 100%;
+ }
+
+
+
 #pnos{
+ 
   color: aliceblue;  
-  padding: auto;
+  width: 50%;
+  height: 50%;
+  padding-left: 0%;
+  
+  
 
 }
+
+#divtv{
+  padding: 0%;
+  
+  
+}
+
+
+
+
