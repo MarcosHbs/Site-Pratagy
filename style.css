@@ -79,6 +79,10 @@ width: 100%; */
   
 }
 
+#mvv{
+  padding: 70px;
+}
+
 
 @media (max-width: 600px) {
 
@@ -87,6 +91,15 @@ width: 100%; */
     flex-direction: column;
   }
 
+  #mvv{
+    flex-direction: column;
+  }
+
+  #valores{
+    height: 50px;
+  }
+
+
   #video{
 
     width: 100%;
@@ -94,4 +107,6 @@ width: 100%; */
   }
 
 }
+
+
 
