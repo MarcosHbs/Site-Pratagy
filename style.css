@@ -16,7 +16,7 @@
 }
 
 
-#sobrenos2{
+#sobrenos{
   
   background-color: #0571ff;
   padding-bottom: 60px;
@@ -100,6 +100,10 @@
   padding: 5%;
   padding-top: 5px;
   
+}
+
+#linkM{
+  color: rgb(255, 255, 255);
 }
 
 
