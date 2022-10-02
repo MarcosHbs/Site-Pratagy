@@ -39,7 +39,7 @@ width: 100%; */
   font-size: 1em;
   font-family: 'Anton', sans-serif;
   color: aliceblue;  
-  margin-left: 10%;
+  margin-left: 7%;
  
 }
 
@@ -75,12 +75,36 @@ width: 100%; */
 
 #divtv{
   padding: 0%;
-  width: 80%;
+  width: 88%;
   
 }
 
 #mvv{
   padding: 70px;
+  color: rgb(5, 113, 255);
+}
+
+
+#Imissao{
+  
+  padding: 5%;
+  padding-top: 5px;
+  
+}
+
+#Ivisao{
+  
+  padding: 5%;
+  padding-top: 5px;
+  
+}
+
+#Ivalores{
+  
+  
+  padding: 5%;
+  padding-top: 5px;
+  
 }
 
 
@@ -93,12 +117,8 @@ width: 100%; */
 
   #mvv{
     flex-direction: column;
+    padding: 10%;
   }
-
-  #valores{
-    height: 50px;
-  }
-
 
   #video{
 
