@@ -116,7 +116,8 @@
 #accordion1{
 
   width: 100%;
-  
+  display: flex;
+  justify-content: space-evenly;
   
 }
 
@@ -134,14 +135,15 @@
 #a3{
   margin-left: 0%;
   border: 0;
+
 }
+
 
 
 #txtA{
   color: #0571ff;
-  margin: 27%;
-  margin-top: 5%;
-  margin-bottom: 5%;
+  text-align: center;
+
 }
 
 @media (max-width: 650px) {
