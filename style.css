@@ -8,7 +8,8 @@
 }
 
 #titulo{
-  position: relative;
+  position: absolute;
+  top: 500px;
   color:white;
   font-family: 'Fira Sans', sans-serif;
   font-family: 'Staatliches', cursive;
