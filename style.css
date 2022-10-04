@@ -1,186 +1,200 @@
 .navbar{
-     background-color: rgb(0, 122, 253);  
-    padding: 0;
+  background-color: rgb(0, 122, 253);  
+ padding: 0;
 } 
 
 #banner{
-  background-size: cover;
+background-size: cover;
 }
 
 #titulo{
-  position: absolute;
-  top: 500px;
-  color:white;
-  font-family: 'Fira Sans', sans-serif;
-  font-family: 'Staatliches', cursive;
-  
+position: absolute;
+top: 500px;
+color:white;
+font-family: 'Fira Sans', sans-serif;
+font-family: 'Staatliches', cursive;
+
 }
 
 
 #sobrenos{
-  
-  background-color: #0571ff;
-  padding-bottom: 60px;
-  padding-top: 60px;
-  
-  height: 90%;
-  /* margin-left: 5%; */
+
+background-color: #0571ff;
+padding-bottom: 60px;
+padding-top: 60px;
+
+height: 90%;
+/* margin-left: 5%; */
 
 }
 
 
 #txtnos{
-  
 
-  font-size: 1em;
-  font-family: 'Anton', sans-serif;
-  color: aliceblue;  
-  margin-left: 7%;
- 
+
+font-size: 1em;
+font-family: 'Anton', sans-serif;
+color: aliceblue;  
+margin-left: 7%;
+
+
 }
 
- /* #divvideo{
-  
-  margin-left: 10%;
-  padding: 0%;
-  width: 80%;
-  height: 100%;
-  
-  
-    
- } */
+/* #divvideo{
 
- #video{
-  width: 80%;
-  height: 250px;
-  border: 10px;
- }
+margin-left: 10%;
+padding: 0%;
+width: 80%;
+height: 100%;
+
+
+ 
+} */
+
+#video{
+width: 80%;
+height: 250px;
+border: 10px;
+}
 
 
 
 #pnos{
- 
-  color: aliceblue;  
-  width: 100%;
-  height: 50%;
-  padding-right: 20px;
-  
-  
+
+color: aliceblue;  
+width: 100%;
+height: 50%;
+padding-right: 20px;
+
+
 
 }
 
 #divtv{
-  padding: 0%;
-  width: 88%;
-  
+padding: 0%;
+width: 88%;
+
 }
 
 #mvv{
-  padding: 70px;
-  color: rgb(5, 113, 255);
+padding: 70px;
+color: rgb(5, 113, 255);
 }
 
 
 #Imissao{
-  
-  padding: 5%;
-  padding-top: 5px;
-  
+
+padding: 5%;
+padding-top: 5px;
+
 }
 
 #Ivisao{
-  
-  padding: 5%;
-  padding-top: 5px;
-  
+
+padding: 5%;
+padding-top: 5px;
+
 }
 
 #Ivalores{
-  
-  
-  padding: 5%;
-  padding-top: 5px;
-  
+
+
+padding: 5%;
+padding-top: 5px;
+
 }
 
 #linkM{
-  color: rgb(255, 255, 255);
+color: rgb(255, 255, 255);
 }
 
 #acordian{
 
-  padding: 10%;
-  
+padding: 10%;
+
 }
 
 #accordion1{
 
-  width: 100%;
-  display: flex;
-  justify-content: space-evenly;
-  
+width: 100%;
+display: flex;
+justify-content: space-evenly;
+
 }
 
 #a1{
-  margin-left: 0%;
-  border: 0;
+margin-left: 0%;
+border: 0;
 }
 
 #a2{
-  margin-left: 30%;
-  margin-right: 30%;
-  border: 0;
+margin-left: 30%;
+margin-right: 30%;
+border: 0;
 }
 
 #a3{
-  margin-left: 0%;
-  border: 0;
+margin-left: 0%;
+border: 0;
 
 }
 
 
 
 #txtA{
-  color: #0571ff;
-  text-align: center;
+color: #0571ff;
+text-align: center;
+}
 
+footer{
+
+text-align: center;
+background-color: #0046a1;
+padding: 6px;
+color:#fff;
 }
 
 @media (max-width: 650px) {
 
-  #divtv{
+#divtv{
 
-    flex-direction: column;
-  }
+ flex-direction: column;
+}
 
-  #mvv{
-    flex-direction: column;
-    padding: 10%;
-  }
+#mvv{
+ flex-direction: column;
+ padding: 10%;
+}
 
-  
 
-  #video{
 
-    width: 100%;
-    height: 100%;
-  }
+#video{
 
-  .accordion{
-    padding: 10%;
-    flex-direction: column;
-  }
+ width: 100%;
+ height: 100%;
+}
 
-  #a2{
+.accordion{
+ padding: 10%;
+ flex-direction: column;
+}
 
-    margin: 0;
+#a2{
 
-  }
+ margin: 0;
 
-  #txtA{
-    color: #0571ff;
-    width: 10%;
-  }
+}
+
+#txtA{
+ color: #0571ff;
+ 
+}
+
+footer{
+
+ padding: 2px;
+ 
+}
 
 }
 
