@@ -21,9 +21,14 @@
    justify-content: space-evenly;
    align-items: center
 
+  }
 
+  #divgenero{
+
+    margin-bottom: 16px;
 
   }
+
   
 #imagem{
     width: 200px; 
