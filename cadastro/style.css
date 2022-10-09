@@ -46,6 +46,11 @@
   width: 100%;
 }
 
+#data{
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
 
 
   @media (max-width: 650px) {
