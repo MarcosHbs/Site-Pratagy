@@ -54,6 +54,17 @@
 
 
 #botão{
+  
+  background-color: #007afd;
+  width: 100%;
+  height: 40px;
+  border: 0;
+  border-radius: 10px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: #fff;
+
+}
+#lbotão{
   margin-top: 16px;
   margin-bottom: 16px;
   background-color: #007afd;
@@ -61,8 +72,8 @@
   height: 40px;
   border: 0;
   border-radius: 10px;
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  color: #fff;
+  
+  
 
 }
 #botão:hover{
