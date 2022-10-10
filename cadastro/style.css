@@ -1,5 +1,5 @@
 .navbar{
-    background-color: rgb(0, 122, 253);  
+    background-color: #007afd;  
    padding: 0;
   } 
   
@@ -52,6 +52,22 @@
 }
 
 
+
+#botão{
+  margin-top: 16px;
+  margin-bottom: 16px;
+  background-color: #007afd;
+  width: 95%;
+  height: 40px;
+  border: 0;
+  border-radius: 10px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: #fff;
+
+}
+#botão:hover{
+    background-color: blue;
+}
 
   @media (max-width: 650px) {
   
